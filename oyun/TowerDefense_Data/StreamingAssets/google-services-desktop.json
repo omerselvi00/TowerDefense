@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "655038948683",
+    "firebase_url": "https://towerdef-216bb-default-rtdb.firebaseio.com",
+    "project_id": "towerdef-216bb",
+    "storage_bucket": "towerdef-216bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655038948683:android:53a836e89182d8d8be34ce",
+        "android_client_info": {
+          "package_name": "com.relantes.TowerDefense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CLr2o2XvVadB6oBM-2S4VnskR9ezvIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
